@@ -3,6 +3,13 @@
 **Executive summary:** build a robust SBB journey planner for the Zürich area, and make a short video presentation of it.
 
 ## Team:
+Bocini Ernesto  
+Bourassa Maxime  
+Brioschi Riccardo  
+Culha Dafne  
+Di Gennaro Federico  
+Sternfeld Alexander  
+
 
 ----
 ## Content
